@@ -82,8 +82,6 @@
 	<true/>
 	<key>MaxVertically</key>
 	<false/>
-	<key>NSColorPanelMode</key>
-	<string>6</string>
 	<key>NSNavLastRootDirectory</key>
 	<string>~/.iterm2/images</string>
 	<key>NSNavPanelExpandedSizeForOpenMode</key>
@@ -94,19 +92,12 @@
 	<string></string>
 	<key>NSScrollAnimationEnabled</key>
 	<false/>
-	<key>NSToolbar Configuration com.apple.NSColorPanel</key>
-	<dict>
-		<key>TB Is Shown</key>
-		<integer>1</integer>
-	</dict>
-	<key>NSWindow Frame NSColorPanel</key>
-	<string>357 327 228 325 0 0 1440 877 </string>
 	<key>NSWindow Frame Preferences</key>
-	<string>-1740 47 924 485 -2560 -540 2560 1417 </string>
+	<string>104 201 924 485 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>-2112 315 850 451 -2560 -540 2560 1417 </string>
+	<string>174 128 865 451 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
-	<string>-1048 -418 850 451 -2560 -540 2560 1417 </string>
+	<string>228 286 830 451 0 0 1440 877 </string>
 	<key>New Bookmarks</key>
 	<array>
 		<dict>
@@ -276,7 +267,7 @@
 			<key>Background Image Is Tiled</key>
 			<true/>
 			<key>Background Image Location</key>
-			<string>/Users/daniellek/.iterm2/images/apple.png</string>
+			<string>/Users/danielle/.iterm2/images/apple.png</string>
 			<key>Blend</key>
 			<real>0.30000001192092896</real>
 			<key>Blink Allowed</key>
@@ -832,7 +823,7 @@
 			<key>Window Type</key>
 			<integer>0</integer>
 			<key>Working Directory</key>
-			<string>/Users/daniellek</string>
+			<string>/Users/danielle</string>
 		</dict>
 		<dict>
 			<key>ASCII Anti Aliased</key>
@@ -1001,7 +992,7 @@
 			<key>Background Image Is Tiled</key>
 			<true/>
 			<key>Background Image Location</key>
-			<string>/Users/daniellek/.iterm2/images/clojure.png</string>
+			<string>/Users/danielle/.iterm2/images/clojure.png</string>
 			<key>Blend</key>
 			<real>0.40797874331474304</real>
 			<key>Blink Allowed</key>
@@ -1557,7 +1548,7 @@
 			<key>Window Type</key>
 			<integer>0</integer>
 			<key>Working Directory</key>
-			<string>/Users/daniellek</string>
+			<string>/Users/danielle</string>
 		</dict>
 		<dict>
 			<key>ASCII Anti Aliased</key>
@@ -1726,7 +1717,7 @@
 			<key>Background Image Is Tiled</key>
 			<true/>
 			<key>Background Image Location</key>
-			<string>/Users/daniellek/.iterm2/images/elixir.png</string>
+			<string>/Users/danielle/.iterm2/images/elixir.png</string>
 			<key>Blend</key>
 			<real>0.38016954064369202</real>
 			<key>Blink Allowed</key>
@@ -2282,7 +2273,7 @@
 			<key>Window Type</key>
 			<integer>0</integer>
 			<key>Working Directory</key>
-			<string>/Users/daniellek</string>
+			<string>/Users/danielle</string>
 		</dict>
 		<dict>
 			<key>ASCII Anti Aliased</key>
@@ -2451,7 +2442,7 @@
 			<key>Background Image Is Tiled</key>
 			<true/>
 			<key>Background Image Location</key>
-			<string>/Users/daniellek/.iterm2/images/erlang.png</string>
+			<string>/Users/danielle/.iterm2/images/erlang.png</string>
 			<key>Blend</key>
 			<real>0.35038232803344727</real>
 			<key>Blink Allowed</key>
@@ -3007,7 +2998,7 @@
 			<key>Window Type</key>
 			<integer>0</integer>
 			<key>Working Directory</key>
-			<string>/Users/daniellek</string>
+			<string>/Users/danielle</string>
 		</dict>
 		<dict>
 			<key>ASCII Anti Aliased</key>
@@ -3176,7 +3167,7 @@
 			<key>Background Image Is Tiled</key>
 			<true/>
 			<key>Background Image Location</key>
-			<string>/Users/daniellek/.iterm2/images/haskell.png</string>
+			<string>/Users/danielle/.iterm2/images/haskell.png</string>
 			<key>Blend</key>
 			<real>0.47697806358337402</real>
 			<key>Blink Allowed</key>
@@ -3732,7 +3723,7 @@
 			<key>Window Type</key>
 			<integer>0</integer>
 			<key>Working Directory</key>
-			<string>/Users/daniellek</string>
+			<string>/Users/danielle</string>
 		</dict>
 		<dict>
 			<key>ASCII Anti Aliased</key>
@@ -3901,7 +3892,7 @@
 			<key>Background Image Is Tiled</key>
 			<true/>
 			<key>Background Image Location</key>
-			<string>/Users/daniellek/.iterm2/images/idris.png</string>
+			<string>/Users/danielle/.iterm2/images/idris.png</string>
 			<key>Blend</key>
 			<real>0.37272274494171143</real>
 			<key>Blink Allowed</key>
@@ -4457,7 +4448,7 @@
 			<key>Window Type</key>
 			<integer>0</integer>
 			<key>Working Directory</key>
-			<string>/Users/daniellek</string>
+			<string>/Users/danielle</string>
 		</dict>
 		<dict>
 			<key>ASCII Anti Aliased</key>
@@ -4626,7 +4617,7 @@
 			<key>Background Image Is Tiled</key>
 			<true/>
 			<key>Background Image Location</key>
-			<string>/Users/daniellek/.iterm2/images/java.png</string>
+			<string>/Users/danielle/.iterm2/images/java.png</string>
 			<key>Blend</key>
 			<real>0.33010721206665039</real>
 			<key>Blink Allowed</key>
@@ -5182,7 +5173,7 @@
 			<key>Window Type</key>
 			<integer>0</integer>
 			<key>Working Directory</key>
-			<string>/Users/daniellek</string>
+			<string>/Users/danielle</string>
 		</dict>
 		<dict>
 			<key>ASCII Anti Aliased</key>
@@ -5351,7 +5342,7 @@
 			<key>Background Image Is Tiled</key>
 			<true/>
 			<key>Background Image Location</key>
-			<string>/Users/daniellek/.iterm2/images/nodejs.png</string>
+			<string>/Users/danielle/.iterm2/images/nodejs.png</string>
 			<key>Blend</key>
 			<real>0.38016954064369202</real>
 			<key>Blink Allowed</key>
@@ -5907,7 +5898,7 @@
 			<key>Window Type</key>
 			<integer>0</integer>
 			<key>Working Directory</key>
-			<string>/Users/daniellek</string>
+			<string>/Users/danielle</string>
 		</dict>
 		<dict>
 			<key>ASCII Anti Aliased</key>
@@ -6076,7 +6067,7 @@
 			<key>Background Image Is Tiled</key>
 			<true/>
 			<key>Background Image Location</key>
-			<string>/Users/daniellek/.iterm2/images/purescript.png</string>
+			<string>/Users/danielle/.iterm2/images/purescript.png</string>
 			<key>Blend</key>
 			<real>0.40995678305625916</real>
 			<key>Blink Allowed</key>
@@ -6632,7 +6623,7 @@
 			<key>Window Type</key>
 			<integer>0</integer>
 			<key>Working Directory</key>
-			<string>/Users/daniellek</string>
+			<string>/Users/danielle</string>
 		</dict>
 		<dict>
 			<key>ASCII Anti Aliased</key>
@@ -6801,7 +6792,7 @@
 			<key>Background Image Is Tiled</key>
 			<true/>
 			<key>Background Image Location</key>
-			<string>/Users/daniellek/.iterm2/images/python.png</string>
+			<string>/Users/danielle/.iterm2/images/python.png</string>
 			<key>Blend</key>
 			<real>0.37272274494171143</real>
 			<key>Blink Allowed</key>
@@ -7357,7 +7348,7 @@
 			<key>Window Type</key>
 			<integer>0</integer>
 			<key>Working Directory</key>
-			<string>/Users/daniellek</string>
+			<string>/Users/danielle</string>
 		</dict>
 		<dict>
 			<key>ASCII Anti Aliased</key>
@@ -7526,7 +7517,7 @@
 			<key>Background Image Is Tiled</key>
 			<true/>
 			<key>Background Image Location</key>
-			<string>/Users/daniellek/.iterm2/images/python.png</string>
+			<string>/Users/danielle/.iterm2/images/python.png</string>
 			<key>Blend</key>
 			<real>0.37272274494171143</real>
 			<key>Blink Allowed</key>
@@ -8082,7 +8073,7 @@
 			<key>Window Type</key>
 			<integer>0</integer>
 			<key>Working Directory</key>
-			<string>/Users/daniellek</string>
+			<string>/Users/danielle</string>
 		</dict>
 		<dict>
 			<key>ASCII Anti Aliased</key>
@@ -8251,7 +8242,7 @@
 			<key>Background Image Is Tiled</key>
 			<true/>
 			<key>Background Image Location</key>
-			<string>/Users/daniellek/.iterm2/images/ruby.png</string>
+			<string>/Users/danielle/.iterm2/images/ruby.png</string>
 			<key>Blend</key>
 			<real>0.43250083923339844</real>
 			<key>Blink Allowed</key>
@@ -8807,7 +8798,7 @@
 			<key>Window Type</key>
 			<integer>0</integer>
 			<key>Working Directory</key>
-			<string>/Users/daniellek</string>
+			<string>/Users/danielle</string>
 		</dict>
 		<dict>
 			<key>ASCII Anti Aliased</key>
@@ -8976,7 +8967,7 @@
 			<key>Background Image Is Tiled</key>
 			<true/>
 			<key>Background Image Location</key>
-			<string>/Users/daniellek/.iterm2/images/swift.png</string>
+			<string>/Users/danielle/.iterm2/images/swift.png</string>
 			<key>Blend</key>
 			<real>0.37272274494171143</real>
 			<key>Blink Allowed</key>
@@ -9532,13 +9523,15 @@
 			<key>Window Type</key>
 			<integer>0</integer>
 			<key>Working Directory</key>
-			<string>/Users/daniellek</string>
+			<string>/Users/danielle</string>
 		</dict>
 	</array>
+	<key>NoSyncNeverRemindPrefsChangesCopy</key>
+	<true/>
 	<key>NoSyncTimeOfLastPromo</key>
-	<real>477414702.83109498</real>
+	<real>483829451.32837999</real>
 	<key>NoSyncTimeOfLastPromoDownload</key>
-	<real>483987806.63221598</real>
+	<real>484031865.942339</real>
 	<key>OnlyWhenMoreTabs</key>
 	<true/>
 	<key>OpenArrangementAtStartup</key>
@@ -9585,7 +9578,7 @@
 		</dict>
 	</dict>
 	<key>PrefsCustomFolder</key>
-	<string>/Users/daniellek/projects/personal/.iterm2</string>
+	<string>/Users/danielle/.iterm2</string>
 	<key>PromptOnQuit</key>
 	<true/>
 	<key>QuitWhenAllWindowsClosed</key>
@@ -9601,7 +9594,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2016-05-03T17:00:24Z</date>
+	<date>2016-05-04T05:17:13Z</date>
 	<key>SavePasteHistory</key>
 	<false/>
 	<key>ShowBookmarkName</key>
