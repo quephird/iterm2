@@ -16,6 +16,10 @@ I wound up putting a little more effort into this than I had anticipated because
 
 Make sure that iTerm2 is already shut down otherwise the preference file may be overwritten if you quit after running the script below. Use Terminal.app and clone this project. Move into that directory and then run `install.sh`. Now when you run iTerm you should see all of your glorious profiles. You should also be able to use Alfred or Spotlight to directly launch a REPL using one of those profiles.
 
+### Caveats
+
+This does not install any of the compilers/REPLs themselves, just the iTerm profiles and the Applescript applets.
+
 ### License
 
 Copyright (C) 2016, ⅅ₳ℕⅈⅇℒℒⅇ Ҝⅇℱℱoℜⅆ.
