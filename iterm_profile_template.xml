@@ -294,7 +294,7 @@
 			<key>Background Image Is Tiled</key>
 			<true/>
 			<key>Background Image Location</key>
-			<string>{HOME_DIRECTORY}/images/apple.png</string>
+			<string>{HOME_DIRECTORY}/iterm2/images/apple.png</string>
 			<key>Blend</key>
 			<real>0.7410779595375061</real>
 			<key>Blink Allowed</key>
@@ -1019,7 +1019,7 @@
 			<key>Background Image Is Tiled</key>
 			<true/>
 			<key>Background Image Location</key>
-			<string>{HOME_DIRECTORY}/images/clojure.png</string>
+			<string>{HOME_DIRECTORY}/iterm2/images/clojure.png</string>
 			<key>Blend</key>
 			<real>0.40797874331474304</real>
 			<key>Blink Allowed</key>
@@ -1744,7 +1744,7 @@
 			<key>Background Image Is Tiled</key>
 			<true/>
 			<key>Background Image Location</key>
-			<string>{HOME_DIRECTORY}/images/coffeescript.png</string>
+			<string>{HOME_DIRECTORY}/iterm2/images/coffeescript.png</string>
 			<key>Blend</key>
 			<real>0.53471994400024414</real>
 			<key>Blink Allowed</key>
@@ -2469,7 +2469,7 @@
 			<key>Background Image Is Tiled</key>
 			<true/>
 			<key>Background Image Location</key>
-			<string>{HOME_DIRECTORY}/images/elixir.png</string>
+			<string>{HOME_DIRECTORY}/iterm2/images/elixir.png</string>
 			<key>Blend</key>
 			<real>0.89876997470855713</real>
 			<key>Blink Allowed</key>
@@ -3194,7 +3194,7 @@
 			<key>Background Image Is Tiled</key>
 			<true/>
 			<key>Background Image Location</key>
-			<string>{HOME_DIRECTORY}/images/elm.png</string>
+			<string>{HOME_DIRECTORY}/iterm2/images/elm.png</string>
 			<key>Blend</key>
 			<real>0.7410779595375061</real>
 			<key>Blink Allowed</key>
@@ -3919,7 +3919,7 @@
 			<key>Background Image Is Tiled</key>
 			<true/>
 			<key>Background Image Location</key>
-			<string>{HOME_DIRECTORY}/images/emily.png</string>
+			<string>{HOME_DIRECTORY}/iterm2/images/emily.png</string>
 			<key>Blend</key>
 			<real>0.30000001192092896</real>
 			<key>Blink Allowed</key>
@@ -4644,7 +4644,7 @@
 			<key>Background Image Is Tiled</key>
 			<true/>
 			<key>Background Image Location</key>
-			<string>{HOME_DIRECTORY}/images/erlang.png</string>
+			<string>{HOME_DIRECTORY}/iterm2/images/erlang.png</string>
 			<key>Blend</key>
 			<real>0.35038232803344727</real>
 			<key>Blink Allowed</key>
@@ -5369,7 +5369,7 @@
 			<key>Background Image Is Tiled</key>
 			<true/>
 			<key>Background Image Location</key>
-			<string>{HOME_DIRECTORY}/images/fsharp.png</string>
+			<string>{HOME_DIRECTORY}/iterm2/images/fsharp.png</string>
 			<key>Blend</key>
 			<real>0.66896611452102661</real>
 			<key>Blink Allowed</key>
@@ -6094,7 +6094,7 @@
 			<key>Background Image Is Tiled</key>
 			<true/>
 			<key>Background Image Location</key>
-			<string>{HOME_DIRECTORY}/images/frege.png</string>
+			<string>{HOME_DIRECTORY}/iterm2/images/frege.png</string>
 			<key>Blend</key>
 			<real>0.7410779595375061</real>
 			<key>Blink Allowed</key>
@@ -6819,7 +6819,7 @@
 			<key>Background Image Is Tiled</key>
 			<true/>
 			<key>Background Image Location</key>
-			<string>{HOME_DIRECTORY}/images/go.png</string>
+			<string>{HOME_DIRECTORY}/iterm2/images/go.png</string>
 			<key>Blend</key>
 			<real>0.60985702276229858</real>
 			<key>Blink Allowed</key>
@@ -7544,7 +7544,7 @@
 			<key>Background Image Is Tiled</key>
 			<true/>
 			<key>Background Image Location</key>
-			<string>{HOME_DIRECTORY}/images/haskell.png</string>
+			<string>{HOME_DIRECTORY}/iterm2/images/haskell.png</string>
 			<key>Blend</key>
 			<real>0.54472655057907104</real>
 			<key>Blink Allowed</key>
@@ -8269,7 +8269,7 @@
 			<key>Background Image Is Tiled</key>
 			<true/>
 			<key>Background Image Location</key>
-			<string>{HOME_DIRECTORY}/images/idris.png</string>
+			<string>{HOME_DIRECTORY}/iterm2/images/idris.png</string>
 			<key>Blend</key>
 			<real>0.48681017756462097</real>
 			<key>Blink Allowed</key>
@@ -8994,7 +8994,7 @@
 			<key>Background Image Is Tiled</key>
 			<true/>
 			<key>Background Image Location</key>
-			<string>{HOME_DIRECTORY}/images/io.png</string>
+			<string>{HOME_DIRECTORY}/iterm2/images/io.png</string>
 			<key>Blend</key>
 			<real>0.7410779595375061</real>
 			<key>Blink Allowed</key>
@@ -9719,7 +9719,7 @@
 			<key>Background Image Is Tiled</key>
 			<true/>
 			<key>Background Image Location</key>
-			<string>{HOME_DIRECTORY}/images/java.png</string>
+			<string>{HOME_DIRECTORY}/iterm2/images/java.png</string>
 			<key>Blend</key>
 			<real>0.41801446676254272</real>
 			<key>Blink Allowed</key>
@@ -10444,7 +10444,7 @@
 			<key>Background Image Is Tiled</key>
 			<true/>
 			<key>Background Image Location</key>
-			<string>{HOME_DIRECTORY}/images/nodejs.png</string>
+			<string>{HOME_DIRECTORY}/iterm2/images/nodejs.png</string>
 			<key>Blend</key>
 			<real>0.38016954064369202</real>
 			<key>Blink Allowed</key>
@@ -11169,7 +11169,7 @@
 			<key>Background Image Is Tiled</key>
 			<true/>
 			<key>Background Image Location</key>
-			<string>{HOME_DIRECTORY}/images/julia.png</string>
+			<string>{HOME_DIRECTORY}/iterm2/images/julia.png</string>
 			<key>Blend</key>
 			<real>0.48340675234794617</real>
 			<key>Blink Allowed</key>
@@ -11894,7 +11894,7 @@
 			<key>Background Image Is Tiled</key>
 			<true/>
 			<key>Background Image Location</key>
-			<string>{HOME_DIRECTORY}/images/lfe.png</string>
+			<string>{HOME_DIRECTORY}/iterm2/images/lfe.png</string>
 			<key>Blend</key>
 			<real>0.44282746315002441</real>
 			<key>Blink Allowed</key>
@@ -12619,7 +12619,7 @@
 			<key>Background Image Is Tiled</key>
 			<true/>
 			<key>Background Image Location</key>
-			<string>{HOME_DIRECTORY}/images/lua.png</string>
+			<string>{HOME_DIRECTORY}/iterm2/images/lua.png</string>
 			<key>Blend</key>
 			<real>0.50667804479598999</real>
 			<key>Blink Allowed</key>
@@ -13344,7 +13344,7 @@
 			<key>Background Image Is Tiled</key>
 			<true/>
 			<key>Background Image Location</key>
-			<string>{HOME_DIRECTORY}/images/ocaml.png</string>
+			<string>{HOME_DIRECTORY}/iterm2/images/ocaml.png</string>
 			<key>Blend</key>
 			<real>0.44593998789787292</real>
 			<key>Blink Allowed</key>
@@ -14069,7 +14069,7 @@
 			<key>Background Image Is Tiled</key>
 			<true/>
 			<key>Background Image Location</key>
-			<string>{HOME_DIRECTORY}/images/swi-prolog.png</string>
+			<string>{HOME_DIRECTORY}/iterm2/images/swi-prolog.png</string>
 			<key>Blend</key>
 			<real>0.40716421604156494</real>
 			<key>Blink Allowed</key>
@@ -14794,7 +14794,7 @@
 			<key>Background Image Is Tiled</key>
 			<true/>
 			<key>Background Image Location</key>
-			<string>{HOME_DIRECTORY}/images/purescript.png</string>
+			<string>{HOME_DIRECTORY}/iterm2/images/purescript.png</string>
 			<key>Blend</key>
 			<real>0.40995678305625916</real>
 			<key>Blink Allowed</key>
@@ -15519,7 +15519,7 @@
 			<key>Background Image Is Tiled</key>
 			<true/>
 			<key>Background Image Location</key>
-			<string>{HOME_DIRECTORY}/images/python.png</string>
+			<string>{HOME_DIRECTORY}/iterm2/images/python.png</string>
 			<key>Blend</key>
 			<real>0.37272274494171143</real>
 			<key>Blink Allowed</key>
@@ -16244,7 +16244,7 @@
 			<key>Background Image Is Tiled</key>
 			<true/>
 			<key>Background Image Location</key>
-			<string>{HOME_DIRECTORY}/images/python.png</string>
+			<string>{HOME_DIRECTORY}/iterm2/images/python.png</string>
 			<key>Blend</key>
 			<real>0.37272274494171143</real>
 			<key>Blink Allowed</key>
@@ -16969,7 +16969,7 @@
 			<key>Background Image Is Tiled</key>
 			<true/>
 			<key>Background Image Location</key>
-			<string>{HOME_DIRECTORY}/images/ruby.png</string>
+			<string>{HOME_DIRECTORY}/iterm2/images/ruby.png</string>
 			<key>Blend</key>
 			<real>0.30000001192092896</real>
 			<key>Blink Allowed</key>
@@ -17694,7 +17694,7 @@
 			<key>Background Image Is Tiled</key>
 			<true/>
 			<key>Background Image Location</key>
-			<string>{HOME_DIRECTORY}/images/rust.png</string>
+			<string>{HOME_DIRECTORY}/iterm2/images/rust.png</string>
 			<key>Blend</key>
 			<real>0.74584859609603882</real>
 			<key>Blink Allowed</key>
@@ -18419,7 +18419,7 @@
 			<key>Background Image Is Tiled</key>
 			<true/>
 			<key>Background Image Location</key>
-			<string>{HOME_DIRECTORY}/images/scala.png</string>
+			<string>{HOME_DIRECTORY}/iterm2/images/scala.png</string>
 			<key>Blend</key>
 			<real>0.64037150144577026</real>
 			<key>Blink Allowed</key>
